@@ -1,0 +1,5 @@
+vision-agents==0.3.8
+vision-agents-plugins-getstream==0.3.8
+vision-agents-plugins-openai==0.3.8
+vision-agents-plugins-deepgram==0.3.8
+vision-agents-plugins-gemini==0.3.8
